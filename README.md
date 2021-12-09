@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a self-taught frontend developer with 4 years of experience. I have worked on a variety of projects from Higher Ed to Healthcare clients. I LOVE Web components, and a big believer in Accessible web content.
+
+Lets connect: https://www.linkedin.com/in/shiju-tom-varughese/
+
 <!--
 **tomsshow/tomsshow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

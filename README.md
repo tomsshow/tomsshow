@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-I am a self-taught frontend developer with 4 years of experience. I have worked on a variety of projects from Higher Ed to Healthcare clients. I LOVE Web components, and a big believer in Accessible web content.
+<img src="https://sdk.bitmoji.com/render/panel/20048676-99101286108_5-s5-v1.png?transparent=1&palette=1&scale=2" alt="drawing" width="200"/>
+Tom here! Welcome to my readme!I am a self-taught frontend developer with 4 years of experience. I have worked on a variety of projects from Higher Ed to Healthcare clients. I LOVE Web components, and a big believer in Accessible web content.
 
 Lets connect: https://www.linkedin.com/in/shiju-tom-varughese/
 
